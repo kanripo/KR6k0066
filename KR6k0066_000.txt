@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說戒消災經
+#+DATE: 2015-08-30 20:43:39.393028
+#+PROPERTY: JUAN 0
