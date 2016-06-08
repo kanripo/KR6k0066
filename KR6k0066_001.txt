@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:43:40.204653
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:02
 #+TITLE: 佛說戒消災經
 #+PROPERTY: CBETA_ID T24n1477
 #+PROPERTY: ID KR6k0066
